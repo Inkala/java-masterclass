@@ -4,32 +4,26 @@ public class Main {
 
 
     public static void main(String[] args) {
-        ComplexNumber one = new ComplexNumber(1.0, 1.0);
-        ComplexNumber number = new ComplexNumber(2.5, -1.5);
-        one.add(1,1);
-        System.out.println("one.real= " + one.getReal());
-        System.out.println("one.imaginary= " + one.getImaginary());
-        one.subtract(number);
-        System.out.println("one.real= " + one.getReal());
-        System.out.println("one.imaginary= " + one.getImaginary());
-        number.subtract(one);
-        System.out.println("number.real= " + number.getReal());
-        System.out.println("number.imaginary= " + number.getImaginary());
+         Rectangle rectangle = new Rectangle(5, 10);
+         System.out.println("rectangle.width= " + rectangle.getWidth());
+         System.out.println("rectangle.length= " + rectangle.getLength());
+         System.out.println("rectangle.area= " + rectangle.getArea());
+         Cuboid cuboid = new Cuboid(5,10,5);
+         System.out.println("cuboid.width= " + cuboid.getWidth());
+         System.out.println("cuboid.length= " + cuboid.getLength());
+         System.out.println("cuboid.area= " + cuboid.getArea());
+         System.out.println("cuboid.height= " + cuboid.getHeight());
+         System.out.println("cuboid.volume= " + cuboid.getVolume());
     }
 }
 
-//    A complex number is a number that can be expressed in the form a + bi, where a and b are real numbers,
-//    and i is a solution of the equation x2 = −1. Because no real number satisfies this equation, i is
-//    called an imaginary number. For the complex number a + bi, a is called the real part, and b is called
-//    the imaginary part. To add or subtract two complex numbers, just add or subtract the corresponding
-//    real and imaginary parts. For instance, the sum of 5 + 3i and 4 + 2i is 9 + 5i. For another, the sum
-//    of 3 + i and –1 + 2i is 2 + 3i.
-//
-//    → OUTPUT
-//
-//    one.real= 2.0
-//    one.imaginary= 2.0
-//    one.real= -0.5
-//    one.imaginary= 3.5
-//    number.real= 3.0
-//    number.imaginary= -5.0
+// → OUTPUT
+
+// rectangle.width= 5.0
+// rectangle.length= 10.0
+// rectangle.area= 50.0
+// cuboid.width= 5.0
+// cuboid.length= 10.0
+// cuboid.area= 50.0
+// cuboid.height= 5.0
+// cuboid.volume= 250.0

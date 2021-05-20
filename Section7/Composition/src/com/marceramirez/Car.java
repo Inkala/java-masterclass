@@ -1,6 +1,7 @@
 package com.marceramirez;
 
 public class Car extends Vehicle {
+
     private int doors;
     private int engineCapacity;
 

@@ -10,15 +10,39 @@
       <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Section6/Challenges/Challenges1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/Challenges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/Challenges2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7 2/Composition/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Section7 2/Composition/Composition.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Section7 2/Encapsulation/Encapsulation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Section7 2/OOPChallenge/OOPChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Section7 2/Polymorphism/Polymorphism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7 2/Composition/out/production/Composition/com/marceramirez/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7 2/Composition/out/production/Composition/com/marceramirez/Case.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7 2/Composition/out/production/Composition/com/marceramirez/Dimensions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7 2/Composition/out/production/Composition/com/marceramirez/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7 2/Composition/out/production/Composition/com/marceramirez/Monitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7 2/Composition/out/production/Composition/com/marceramirez/Motherboard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7 2/Composition/out/production/Composition/com/marceramirez/PC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7 2/Composition/out/production/Composition/com/marceramirez/Resolution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7 2/Composition/out/production/Composition/com/marceramirez/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7 2/Composition/src/com/marceramirez/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7 2/Composition/src/com/marceramirez/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7 2/Composition/src/com/marceramirez/Dimensions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7 2/Composition/src/com/marceramirez/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7 2/Composition/src/com/marceramirez/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7 2/Composition/src/com/marceramirez/Motherboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7 2/Composition/src/com/marceramirez/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7 2/Composition/src/com/marceramirez/Resolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7 2/Composition/src/com/marceramirez/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7 2/Polymorphism/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7 2/Polymorphism/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7 2/Polymorphism/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section7 2/Polymorphism/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Section8/ArrayListChallenge/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section8/ArrayListChallenge/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section8/ArrayListChallenge/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Section8/ArrayListChallenge/.idea/description.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Section8/ArrayListChallenge/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Section8/ArrayListChallenge/.idea/misc.xml" afterDir="false" />
@@ -68,6 +92,10 @@
       <change afterPath="$PROJECT_DIR$/../../Section8/BoxingChallenge/src/com/marceramirez/Customer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Section8/BoxingChallenge/src/com/marceramirez/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Section8/Challenges/.idea/Challenges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section8/Challenges/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section8/Challenges/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section8/Challenges/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section8/Challenges/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Section8/Challenges/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Section8/LinkedList/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Section8/LinkedList/.idea/description.html" afterDir="false" />
@@ -94,6 +122,9 @@
       <change afterPath="$PROJECT_DIR$/../../Section8/LinkedListChallenge/src/com/marceramirez/Album.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Section8/LinkedListChallenge/src/com/marceramirez/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Section8/LinkedListChallenge/src/com/marceramirez/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/ArrayListChallenge/com/marceramirez/Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/ArrayListChallenge/com/marceramirez/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/ArrayListChallenge/com/marceramirez/MobilePhone.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Section3/ByteShortIntLong/ByteShortIntLong.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section3/ByteShortIntLong/ByteShortIntLong.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Section3/CharAndBoolean/CharAndBoolean.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section3/CharAndBoolean/CharAndBoolean.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Section3/FloatAndDouble/FloatAndDouble.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section3/FloatAndDouble/FloatAndDouble.iml" afterDir="false" />
@@ -112,33 +143,33 @@
       <change beforePath="$PROJECT_DIR$/../../Section5/Switch/Switch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section5/Switch/Switch.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Section6/Classes/Classes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section6/Classes/Classes.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Section6/Inheritance/Inheritance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section6/Inheritance/Inheritance.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/Challenges.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/out/production/Challenges/com/marceramirez/Bed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/out/production/Challenges/com/marceramirez/Bedroom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/out/production/Challenges/com/marceramirez/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/out/production/Challenges/com/marceramirez/Ceiling.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/out/production/Challenges/com/marceramirez/Chevrolet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/out/production/Challenges/com/marceramirez/Lamp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/out/production/Challenges/com/marceramirez/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/out/production/Challenges/com/marceramirez/Printer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/out/production/Challenges/com/marceramirez/Renault.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/out/production/Challenges/com/marceramirez/Wall.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/src/com/marceramirez/Bed.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/src/com/marceramirez/Bedroom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/src/com/marceramirez/Ceiling.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/src/com/marceramirez/Lamp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/src/com/marceramirez/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/src/com/marceramirez/Printer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/src/com/marceramirez/Wall.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/Challenges.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/Challenges.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/out/production/Challenges/com/marceramirez/Bed.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/out/production/Challenges/com/marceramirez/Bed.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/out/production/Challenges/com/marceramirez/Bedroom.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/out/production/Challenges/com/marceramirez/Bedroom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/out/production/Challenges/com/marceramirez/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/out/production/Challenges/com/marceramirez/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/out/production/Challenges/com/marceramirez/Ceiling.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/out/production/Challenges/com/marceramirez/Ceiling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/out/production/Challenges/com/marceramirez/Chevrolet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/out/production/Challenges/com/marceramirez/Chevrolet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/out/production/Challenges/com/marceramirez/Lamp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/out/production/Challenges/com/marceramirez/Lamp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/out/production/Challenges/com/marceramirez/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/out/production/Challenges/com/marceramirez/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/out/production/Challenges/com/marceramirez/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/out/production/Challenges/com/marceramirez/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/out/production/Challenges/com/marceramirez/Renault.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/out/production/Challenges/com/marceramirez/Renault.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/out/production/Challenges/com/marceramirez/Wall.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/out/production/Challenges/com/marceramirez/Wall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/src/com/marceramirez/Bed.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/src/com/marceramirez/Bed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/src/com/marceramirez/Bedroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/src/com/marceramirez/Bedroom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/src/com/marceramirez/Ceiling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/src/com/marceramirez/Ceiling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/src/com/marceramirez/Lamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/src/com/marceramirez/Lamp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/src/com/marceramirez/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/src/com/marceramirez/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/src/com/marceramirez/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/src/com/marceramirez/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/src/com/marceramirez/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Challenges/src/com/marceramirez/Wall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Composition/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Composition/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Composition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Composition.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Composition/com/marceramirez/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Composition/com/marceramirez/Car.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Composition/com/marceramirez/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Composition/com/marceramirez/Main.class" afterDir="false" />
@@ -148,53 +179,53 @@
       <change beforePath="$PROJECT_DIR$/src/com/marceramirez/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/marceramirez/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/marceramirez/Motherboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/marceramirez/Motherboard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/marceramirez/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/marceramirez/PC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Encapsulation/Encapsulation.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Encapsulation/out/production/Encapsulation/com/marceramirez/EnhancedPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Encapsulation/out/production/Encapsulation/com/marceramirez/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Encapsulation/out/production/Encapsulation/com/marceramirez/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Encapsulation/src/com/marceramirez/EnhancedPlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Encapsulation/src/com/marceramirez/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Encapsulation/src/com/marceramirez/Player.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPChallenge/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPChallenge/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPChallenge/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPChallenge/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPChallenge/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPChallenge/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPChallenge/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPChallenge/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPChallenge/OOPChallenge.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPChallenge/out/production/OOPChallenge/com/marceramirez/DeluxeBurger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPChallenge/out/production/OOPChallenge/com/marceramirez/Hamburger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPChallenge/out/production/OOPChallenge/com/marceramirez/HealthyBurger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPChallenge/out/production/OOPChallenge/com/marceramirez/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPChallenge/src/com/marceramirez/DeluxeBurger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPChallenge/src/com/marceramirez/Hamburger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPChallenge/src/com/marceramirez/HealthyBurger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPChallenge/src/com/marceramirez/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polymorphism/Polymorphism.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/com/marceramirez/Forgetable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/com/marceramirez/IndependenceDay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/com/marceramirez/Jaws.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/com/marceramirez/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/com/marceramirez/MazeRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/com/marceramirez/Movie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/com/marceramirez/StarWars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polymorphism/src/com/marceramirez/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Encapsulation/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Composition/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Encapsulation/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Composition/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Encapsulation/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Composition/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Composition/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/Encapsulation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Encapsulation/Encapsulation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/out/production/Encapsulation/com/marceramirez/EnhancedPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Encapsulation/out/production/Encapsulation/com/marceramirez/EnhancedPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/out/production/Encapsulation/com/marceramirez/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Encapsulation/out/production/Encapsulation/com/marceramirez/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/out/production/Encapsulation/com/marceramirez/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Encapsulation/out/production/Encapsulation/com/marceramirez/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/src/com/marceramirez/EnhancedPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Encapsulation/src/com/marceramirez/EnhancedPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/src/com/marceramirez/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Encapsulation/src/com/marceramirez/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/src/com/marceramirez/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Encapsulation/src/com/marceramirez/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPChallenge/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/OOPChallenge/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPChallenge/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Encapsulation/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPChallenge/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/OOPChallenge/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Encapsulation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPChallenge/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/OOPChallenge/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPChallenge/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Encapsulation/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPChallenge/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/OOPChallenge/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPChallenge/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Encapsulation/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPChallenge/OOPChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/OOPChallenge/OOPChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPChallenge/out/production/OOPChallenge/com/marceramirez/DeluxeBurger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/OOPChallenge/out/production/OOPChallenge/com/marceramirez/DeluxeBurger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPChallenge/out/production/OOPChallenge/com/marceramirez/Hamburger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/OOPChallenge/out/production/OOPChallenge/com/marceramirez/Hamburger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPChallenge/out/production/OOPChallenge/com/marceramirez/HealthyBurger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/OOPChallenge/out/production/OOPChallenge/com/marceramirez/HealthyBurger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPChallenge/out/production/OOPChallenge/com/marceramirez/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/OOPChallenge/out/production/OOPChallenge/com/marceramirez/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPChallenge/src/com/marceramirez/DeluxeBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/OOPChallenge/src/com/marceramirez/DeluxeBurger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPChallenge/src/com/marceramirez/Hamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/OOPChallenge/src/com/marceramirez/Hamburger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPChallenge/src/com/marceramirez/HealthyBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/OOPChallenge/src/com/marceramirez/HealthyBurger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPChallenge/src/com/marceramirez/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/OOPChallenge/src/com/marceramirez/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Polymorphism/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/OOPChallenge/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Polymorphism/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/OOPChallenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Polymorphism/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/OOPChallenge/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/OOPChallenge/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/Polymorphism.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Polymorphism/Polymorphism.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/com/marceramirez/Forgetable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Polymorphism/out/production/Polymorphism/com/marceramirez/Forgetable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/com/marceramirez/IndependenceDay.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Polymorphism/out/production/Polymorphism/com/marceramirez/IndependenceDay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/com/marceramirez/Jaws.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Polymorphism/out/production/Polymorphism/com/marceramirez/Jaws.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/com/marceramirez/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Polymorphism/out/production/Polymorphism/com/marceramirez/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/com/marceramirez/MazeRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Polymorphism/out/production/Polymorphism/com/marceramirez/MazeRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/com/marceramirez/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Polymorphism/out/production/Polymorphism/com/marceramirez/Movie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/com/marceramirez/StarWars.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Polymorphism/out/production/Polymorphism/com/marceramirez/StarWars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/src/com/marceramirez/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7 2/Polymorphism/src/com/marceramirez/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -327,7 +358,7 @@
       <option name="presentableId" value="Default" />
       <updated>1620981215147</updated>
       <workItem from="1620981216482" duration="63000" />
-      <workItem from="1620997990646" duration="3381000" />
+      <workItem from="1620997990646" duration="3653000" />
     </task>
     <servers />
   </component>

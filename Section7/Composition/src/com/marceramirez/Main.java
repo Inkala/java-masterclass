@@ -12,7 +12,7 @@ public class Main {
 
         PC thePC = new PC(theCase, theMonitor, theMotherboard);
         thePC.powerUp();
+        thePC.initializeSystem();
         thePC.drawLogo();
-//        thePC.getMotherboard().loadProgram("Windows 1.0");
     }
 }

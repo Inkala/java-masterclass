@@ -19,4 +19,8 @@ public class PC {
         // Fancy graphics
         monitor.drawPixelAt(1200, 50, "yellow");
     }
+
+    public void initializeSystem() {
+        motherboard.loadProgram("Windows 1.0");
+    }
 }

@@ -3,14 +3,15 @@ package com.marceramirez;
 import java.util.Scanner;
 
 public class Main {
-    private static Scanner sc = new Scanner(System.in);
+
+    private static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
         int[] myIntegers = getIntegers(5);
         for (int i = 0; i < myIntegers.length; i++) {
-            System.out.println("Element " + i + ", typed value was " + myIntegers[i]);
+            System.out.println("Value " + i + " = " + myIntegers[i]);
         }
-        System.out.println(getAverage(myIntegers));
+        System.out.println("The average is " + getAverage(myIntegers));
     }
 
     private static int[] getIntegers(int number) {
@@ -18,16 +19,18 @@ public class Main {
         int[] values = new int[number];
 
         for (int i = 0; i < values.length; i++) {
-            values[i] = sc.nextInt();
+            values[i] = scanner.nextInt();
         }
+
         return values;
     }
 
     public static double getAverage(int[] array) {
-        int sum = 0;
-        for (int j : array) {
-            sum += j;
+        int total = 0;
+        for(int i = 0; i < array.length; i++) {
+            total += array[i];
         }
-        return (double) sum / (double) array.length;
+
+        return (double) total / (double) array.length;
     }
 }

@@ -6,45 +6,38 @@ import java.util.ListIterator;
 import java.util.Scanner;
 
 public class Demo {
-    public static void main(String[] args) {
-        LinkedList<String> placesToVisit = new LinkedList<>();
 
+    public static void main(String[] args) {
+        LinkedList<String> placesToVisit = new LinkedList<String>();
         addInOrder(placesToVisit, "Sydney");
         addInOrder(placesToVisit, "Melbourne");
         addInOrder(placesToVisit, "Brisbane");
         addInOrder(placesToVisit, "Perth");
+        addInOrder(placesToVisit, "Perth");
         addInOrder(placesToVisit, "Canberra");
         addInOrder(placesToVisit, "Adelaide");
         addInOrder(placesToVisit, "Darwin");
+
         printList(placesToVisit);
 
         addInOrder(placesToVisit, "Alice Springs");
-        addInOrder(placesToVisit, "Darwin");
         printList(placesToVisit);
 
         visit(placesToVisit);
     }
 
-    private static void printList(LinkedList<String> linkedList) {
-        Iterator<String> i = linkedList.iterator();
-        while (i.hasNext()) {
-            System.out.println("Now visiting " + i.next());
-        }
-        System.out.println("=========================");
-    }
-
     private static boolean addInOrder(LinkedList<String> linkedList, String newCity) {
         ListIterator<String> stringListIterator = linkedList.listIterator();
         while (stringListIterator.hasNext()) {
-            int comparison = stringListIterator.next().compareTo(newCity);
+            int comparison = stringListIterator.next()
+                                               .compareTo(newCity);
             if (comparison == 0) {
-                System.out.println(newCity + " is already included as a destination");
+                System.out.println(newCity + " is already included as destination");
                 return false;
             } else if (comparison > 0) {
                 stringListIterator.previous();
                 stringListIterator.add(newCity);
                 return true;
-//            } else if (comparison < 0) {
             }
         }
         stringListIterator.add(newCity);
@@ -54,12 +47,10 @@ public class Demo {
     private static void visit(LinkedList cities) {
         Scanner scanner = new Scanner(System.in);
         boolean quit = false;
-        boolean forward = true;
+        boolean goingForward = true;
         ListIterator<String> listIterator = cities.listIterator();
-
         if (cities.isEmpty()) {
             System.out.println("No cities in the itinerary");
-            return;
         } else {
             System.out.println("Now visiting " + listIterator.next());
             printMenu();
@@ -70,48 +61,59 @@ public class Demo {
             scanner.nextLine();
             switch (action) {
                 case 0:
-                    System.out.println("Trip is over");
+                    System.out.println("Holiday over");
                     quit = true;
                     break;
                 case 1:
-                    if (!forward) {
-                        if(listIterator.hasNext()) {
+                    if (!goingForward) {
+                        if (listIterator.hasNext()) {
                             listIterator.next();
                         }
-                        forward = true;
+                        goingForward = true;
                     }
                     if (listIterator.hasNext()) {
                         System.out.println("Now visiting " + listIterator.next());
                     } else {
                         System.out.println("Reached the end of the list");
+                        goingForward = false;
                     }
                     break;
                 case 2:
-                    if (forward) {
-                        if(listIterator.hasPrevious()) {
+                    if (goingForward) {
+                        if (listIterator.hasPrevious()) {
                             listIterator.previous();
                         }
-                        forward = false;
+                        goingForward = false;
                     }
                     if (listIterator.hasPrevious()) {
                         System.out.println("Now visiting " + listIterator.previous());
                     } else {
                         System.out.println("We are at the start of the list");
+                        goingForward = true;
                     }
                     break;
                 case 3:
                     printMenu();
                     break;
             }
-
         }
     }
 
     private static void printMenu() {
-        System.out.println("Choose action:");
-        System.out.println("  1 - Go to next city");
-        System.out.println("  2 - Go to previous city");
-        System.out.println("  3 - Print menu options");
-        System.out.println("  0 - Quit");
+        System.out.println("Select one option: ");
+        System.out.println(
+            "1 - go to next city\n" +
+                "2 - go to previous city\n" +
+                "3 - print menu\n" +
+                "0 - quit"
+        );
+    }
+
+    private static void printList(LinkedList<String> linkedList) {
+        Iterator<String> i = linkedList.iterator();
+        while (i.hasNext()) {
+            System.out.println("Now visiting " + i.next());
+        }
+        System.out.println("=====================");
     }
 }

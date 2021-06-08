@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f48fb0f-a476-4ab1-95c8-a9556a0a27ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Section7/OOPChallenge/src/com/marceramirez/HealthyBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7/OOPChallenge/src/com/marceramirez/HealthyBurger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/ArrayListChallenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/src/com/marceramirez/Contact.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/src/com/marceramirez/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/src/com/marceramirez/MobilePhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayLists/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayLists/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayLists/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayLists/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayLists/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayLists/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayLists/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayLists/ArrayLists.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayLists/out/production/ArrayLists/com/marceramirez/GroceryList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayLists/out/production/ArrayLists/com/marceramirez/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayLists/src/com/marceramirez/GroceryList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayLists/src/com/marceramirez/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Arrays/com/marceramirez/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arrays/com/marceramirez/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/marceramirez/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/marceramirez/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/BoxingChallenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/out/production/BoxingChallenge/com/marceramirez/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/out/production/BoxingChallenge/com/marceramirez/Branch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/out/production/BoxingChallenge/com/marceramirez/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/out/production/BoxingChallenge/com/marceramirez/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/src/com/marceramirez/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/src/com/marceramirez/Branch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/src/com/marceramirez/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/src/com/marceramirez/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/Challenges.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/LinkedList.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/com/marceramirez/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/com/marceramirez/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/com/marceramirez/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/src/com/marceramirez/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/src/com/marceramirez/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/src/com/marceramirez/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/LinkedListChallenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/src/com/marceramirez/Album.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/src/com/marceramirez/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/src/com/marceramirez/Song.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1sqewtoqo6hb1lBy4i81ww3yAlU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.marceramirez.Main" />
+      <module name="Arrays" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f48fb0f-a476-4ab1-95c8-a9556a0a27ba" name="Default Changelist" comment="" />
+      <created>1621604789530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621604789530</updated>
+      <workItem from="1621604790962" duration="2268000" />
+      <workItem from="1621935421881" duration="3000" />
+      <workItem from="1622013116321" duration="646000" />
+    </task>
+    <servers />
+  </component>
+</project>

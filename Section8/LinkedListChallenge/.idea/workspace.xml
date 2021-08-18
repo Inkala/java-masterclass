@@ -2,96 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32221087-4f25-4235-8e53-c964e6d74713" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ArraysChallenge/ArraysChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/AutoboxingAndUnboxing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/AutoboxingAndUnboxingChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/src/com/marceramirez/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/src/com/marceramirez/Branch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/src/com/marceramirez/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lists/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lists/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lists/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lists/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lists/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lists/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lists/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lists/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lists/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lists/Lists.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lists/src/com/marceramirez/GroceryList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MinElementChallenge/MinElementChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReverseArrayChallenge/ReverseArrayChallenge.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Section7/OOPChallenge/src/com/marceramirez/HealthyBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section7/OOPChallenge/src/com/marceramirez/HealthyBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/src/com/marceramirez/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/com/marceramirez/Contact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/src/com/marceramirez/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/com/marceramirez/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/src/com/marceramirez/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/com/marceramirez/MobilePhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayLists/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayLists/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayLists/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayLists/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayLists/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayLists/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayLists/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayLists/ArrayLists.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayLists/out/production/ArrayLists/com/marceramirez/GroceryList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayLists/out/production/ArrayLists/com/marceramirez/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayLists/src/com/marceramirez/GroceryList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayLists/src/com/marceramirez/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arrays/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arrays/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/com/marceramirez/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/out/production/Arrays/com/marceramirez/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arrays/src/com/marceramirez/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/src/com/marceramirez/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/BoxingChallenge.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/out/production/BoxingChallenge/com/marceramirez/Bank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/out/production/BoxingChallenge/com/marceramirez/Branch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/out/production/BoxingChallenge/com/marceramirez/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/out/production/BoxingChallenge/com/marceramirez/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/src/com/marceramirez/Bank.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/src/com/marceramirez/Branch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/src/com/marceramirez/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BoxingChallenge/src/com/marceramirez/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/Challenges.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/com/marceramirez/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/com/marceramirez/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/com/marceramirez/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/com/marceramirez/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/com/marceramirez/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/com/marceramirez/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/src/com/marceramirez/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/src/com/marceramirez/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/src/com/marceramirez/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/src/com/marceramirez/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/src/com/marceramirez/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/src/com/marceramirez/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/marceramirez/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/marceramirez/Album.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/marceramirez/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/marceramirez/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InnerClassChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InnerClassChallenge/src/com/marceramirez/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InnerClassChallenge/src/com/marceramirez/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InnerClasses/src/com/marceramirez/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InnerClasses/src/com/marceramirez/Gearbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/Interfaces/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/Interfaces/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/Interfaces/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/Interfaces/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/Interfaces/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/Interfaces/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/Interfaces/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/Interfaces/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/Interfaces/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/Interfaces/Interfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/Interfaces/src/com/marceramirez/DeskPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/Interfaces/src/com/marceramirez/Gearbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/Interfaces/src/com/marceramirez/ITelephone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/Interfaces/src/com/marceramirez/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InterfacesChallenge/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InterfacesChallenge/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InterfacesChallenge/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InterfacesChallenge/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InterfacesChallenge/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InterfacesChallenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InterfacesChallenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InterfacesChallenge/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InterfacesChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InterfacesChallenge/InterfacesChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InterfacesChallenge/src/com/marceramirez/ISaveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InterfacesChallenge/src/com/marceramirez/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InterfacesChallenge/src/com/marceramirez/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InterfacesLinkedList/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InterfacesLinkedList/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InterfacesLinkedList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InterfacesLinkedList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InterfacesLinkedList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InterfacesLinkedList/InterfacesLinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InterfacesLinkedList/src/com/marceramirez/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section9/InterfacesLinkedList/src/com/marceramirez/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,6 +129,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -209,7 +161,10 @@
       <workItem from="1623079539854" duration="1272000" />
       <workItem from="1623136093377" duration="3482000" />
       <workItem from="1623142955466" duration="2574000" />
-      <workItem from="1623162324354" duration="934000" />
+      <workItem from="1623162324354" duration="1093000" />
+      <workItem from="1623247024582" duration="168000" />
+      <workItem from="1623251554351" duration="60000" />
+      <workItem from="1624024791641" duration="106000" />
     </task>
     <servers />
   </component>
